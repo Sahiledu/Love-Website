@@ -2,7 +2,7 @@
     @import url('https://fonts.googleapis.com/css2?family=Love+Light&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
     body {
-      background-image: url(/assets/images/2_cute.png);
+      background-image: url(/assets/images/undefined39.png);
       background-size: cover;
       background-position: center;
       text-align: center;
@@ -16,7 +16,7 @@
     }
 
     header {
-      background-image: url(/assets/images/undefined.png);
+      background-image: url(/assets/images/undefined39.png);
       background-size: cover;
       background-position: center;
       text-align: center;
@@ -30,7 +30,7 @@
     }
 
     section {
-        background-image: url(/assets/images/super_cute.png);
+        background-image: url(/assets/images/section39.png);
         background-size: cover;
         background-position: center;
         font-family: 'Love Light', cursive;
@@ -44,7 +44,7 @@
     }
 
     footer {
-      background-image: url(/assets/images/cute_background.png);
+      background-image: url(/assets/images/footer39.png);
       background-size: cover;
       background-position: center;
       text-align: center;

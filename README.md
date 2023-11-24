@@ -1,20 +1,20 @@
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://0xabdulkhalid.github.io/basket-sign-up/">
-    <img src="./assets/md-images/undefined.png" alt="Logo" width="100">
+  <a href="https://sahiledu.github.io/Love-Website/">
+    <img src="./assets/images/icon39.png" alt="Logo" width="100">
   </a>
 
 <h3 align="center"><b>| Cute-Love | Website |</b></h3>
 
   <p align="center">
-    For an illusionary brand, Cute-Love™
+    For an Illusionary brand, Cute-Love™
     <br />
     <br />
-    <a href="https://0xabdulkhalid.github.io/basket-sign-up/">View Demo</a>
+    <a href="https://sahiledu.github.io/Love-Website/">View Demo</a>
     ·
-    <a href="https://www.github.com/0xabdulkhalid/basket-sign-up/issues">Report Bug</a>
+    <a href="https://github.com/Sahiledu/Love-Website/issues">Report Bug</a>
     ·
-    <a href="https://www.github.com/0xabdulkhalid/ann/issues">Request Feature</a>
+    <a href="https://github.com/Sahiledu/Love-Website">Request Feature</a>
   </p>
 </div>
 
@@ -24,8 +24,8 @@
 ## Preview
 
 <div align="center">
- <img src="./assets/md-images/desktop-preview.png">
- <img src="./assets/md-images/mobile-preview.png">
+ <img src="./assets/md-images/preview_front39.png">
+ <img src="./assets/md-images/preview_back39.png">
 </div>
 
 > **Note**  
