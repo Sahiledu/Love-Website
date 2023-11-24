@@ -1,0 +1,59 @@
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Love+Light&family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+    body {
+      background-image: url(/assets/images/2_cute.png);
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      font-family: 'Love Light', cursive;
+      font-size: large;
+      margin: 20px auto;
+      background-color: #682b2b;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(10, 10, 10, 10);
+    }
+
+    header {
+      background-image: url(/assets/images/undefined.png);
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      font-family: 'Love Light', cursive;
+      font-size: large;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(10, 10, 10, 10);
+    }
+
+    section {
+        background-image: url(/assets/images/super_cute.png);
+        background-size: cover;
+        background-position: center;
+        font-family: 'Love Light', cursive;
+        font-size: large;
+        max-width: 600px;
+        margin: 20px auto;
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 8px;
+        box-shadow: 0 0 10px rgba(10, 10, 10, 10);
+    }
+
+    footer {
+      background-image: url(/assets/images/cute_background.png);
+      background-size: cover;
+      background-position: center;
+      text-align: center;
+      font-family: 'Love Light', cursive;
+      font-size: large;
+      margin: 20px auto;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(10, 10, 10, 10);
+    }
+</style>
